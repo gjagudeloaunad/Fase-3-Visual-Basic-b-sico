@@ -19,7 +19,7 @@
 
             </div>
             <div class="col-md-4">
-                <asp:Button ID="Ej13_btn1" runat="server" CssClass="btn-primary" Height="117px" Text="EJ13 - Quiz" Width="390px"/>
+                <asp:Button ID="Ej13_btn1" runat="server" CssClass="btn-primary" Height="117px" Text="EJ13 - Quiz" Width="390px" PostBackUrl="~/Ejercicios/Ejercicio13.aspx"/>
 
             </div>
         </div>
