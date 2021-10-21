@@ -151,8 +151,8 @@
             },
 
             tiempoAgotado: function () {
-                //alert('Se agotó el tiempo. Debe empezar el quiz otra vez.');
-                //window.location = "";
+                alert('Se agotó el tiempo. Debe empezar el quiz otra vez.');
+                window.location = "";
             },
 
             enviarRespuestas: function () {
